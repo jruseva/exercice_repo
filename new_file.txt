@@ -3,3 +3,5 @@ Changes
 
 Hi again!
 This is resolved!
+
+Changes with GitBash
